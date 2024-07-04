@@ -1,6 +1,7 @@
 # Cloud Compass
 
 Welcome to Cloud Compass, your go-to weather companion for real-time updates and local insights.
+https://wea-app-beta.vercel.app/  - deployed
 
 ## Features
 
